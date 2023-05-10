@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/Rafael-Lee1/Icons/blob/6c3e5da1843a4d3c0d812bafb9e540c6649d2d4c/helpdesk.png">
+  <img width="460" height="300" src="https://github.com/Rafael-Lee1/Icons/blob/a05e4d967769f1ba50544d6fd5babeb24219132e/Help%20Desk%20Mosaic.png">
 </p>
 
 <h1 align="center"> App Help Desk </h1>
